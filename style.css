@@ -1,0 +1,14 @@
+body {
+    background-color: lightcoral;
+}
+
+#heading {
+    background-color: lightpink;
+    width: 100%;
+}
+
+.btn btn-success {
+    border-radius: 50px;
+    width: 30px;
+    height: 30px;
+}
